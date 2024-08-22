@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+}
+h2,
+form {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
