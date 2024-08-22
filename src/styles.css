@@ -2,7 +2,8 @@
   font-family: sans-serif;
 }
 h2,
-form {
+form,
+footer {
   text-align: center;
 }
 ul {
